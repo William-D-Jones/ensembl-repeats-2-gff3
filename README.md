@@ -38,6 +38,14 @@ a file if desired.
 perl ensembl_repeats_2_gff3.pl -species danio_rerio > repeats.gff
 ```
 
+3. If the repeats are to be used to generate a custom genome with the HOMER
+software, supply the repeats.gff file to HOMER's program loadGenome.pl with the
+flag -ensemblRepeats.
+
+```
+loadGenome.pl -ensemblRepeats repeats.gff ...
+```
+
 ## Command-Line Options:
 
 Usage:

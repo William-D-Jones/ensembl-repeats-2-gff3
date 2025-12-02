@@ -1,6 +1,6 @@
-# Ensembl Repeats GFF Generator (ensembl-repeats-2-gff3)
+# Ensembl Repeats Annotation Generator (ensembl-repeats-2-gff3)
 
-The Ensembl Repeats GFF Generator (ensembl-repeats-2-gff3) information on
+The Ensembl Repeats Annotation Generator (ensembl-repeats-2-gff3) information on
 genomic repeats from Ensembl and produces annotations in .gff3 format. The
 .gff3 annotations produced are designed to be compatible with the HOMER 
 software suite (http://homer.ucsd.edu/homer/).
